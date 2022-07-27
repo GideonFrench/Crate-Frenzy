@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/dragon.ogg-50e8d331cf761701b9e4cec25f4c756c.oggstr"
+
+[deps]
+
+source_file="res://sound/dragon.ogg"
+dest_files=[ "res://.import/dragon.ogg-50e8d331cf761701b9e4cec25f4c756c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
